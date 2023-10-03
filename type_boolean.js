@@ -14,3 +14,5 @@ const texto1 = "Alura";
 const texto2 = "A";
 
 console.log(texto1 === texto2);
+
+//Usar comando git status para ver os arquivos, depois seguindo com git add, git commit -m "mensagem", git push origin master
