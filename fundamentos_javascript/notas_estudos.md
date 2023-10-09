@@ -157,3 +157,4 @@ Como as linguagens estão em constante desenvolvimento, o JavaScript também res
 *Sobre variáveis constantes:*
 Pode parecer estranho quando utilizamos a palavra *variável* (ou *variable*, em inglês) mas ao mesmo tempo o JavaScript moderno tem uma opção, a chamada *const*, que justamente não pode ser variável — não podemos alterar o valor dela. Ou seja, a declaração *const numero = 1*; não pode receber nenhum outro valor, e aparentemente esse é um comportamento esperado, e também uma boa prática. 
 
+# Aula 3
