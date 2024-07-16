@@ -29,3 +29,7 @@ console.log(typeof +’45’); // retorna ‘number’
 console.log(typeof +true); // retorna ‘number’
 
 //s funções parseInt() e parseFloat() funcionam de forma similar a Number(), porém convertem apenas strings, enquanto Number() é capaz de converter outros tipos de dados conforme os exemplos acima.
+
+String(2); // retorna '2'
+String(undefined); // retorna 'undefined'
+String(true); // retorna 'true'
