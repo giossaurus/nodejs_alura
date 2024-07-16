@@ -8,8 +8,7 @@ const numeroString = "456";
 console.log(numero == numeroString);
 // Com === comparam todos os valores, já == comparam os valores dentro do ""
 
+//Conversão explícita
 //Number()
 //String()
 console.log(numero + Number(numeroString));
-
-//Conversão explícita
