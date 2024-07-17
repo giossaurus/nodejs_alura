@@ -20,7 +20,6 @@ const estaVivo = true;
 console.log(`O meu personagem se chama ${personagem}, ele está no nível ${nivel} e ${estaVivo }.`);
 
 //Crie uma variável numérica e uma string. Faça a conversão da variável numérica para string e da string para número. Exiba os tipos de dados resultantes no console.
-
 const numero = 10;
 const texto = '100';
 const numeroParaString = numero.toString;
@@ -29,8 +28,7 @@ const textoParaNumero = parseInt(texto);
 console.log(typeof numeroParaString);
 console.log(typeof textoParaNumero);
 
-//
-
+//Crie uma variável com uma string e utilize métodos de manipulação de strings, como toUpperCase, toLowerCase, slice ou outros, para modificar a string original. Exiba os resultados finais no console.
 const tituloDoLivro = 'O Senhor dos Anéis';
 const autor = 'J.R.R. Tolkien';
 const volumeDoLivro = 1;
