@@ -10,4 +10,3 @@ if (media >= 7) {
 }
 
 console.log(`A média é: $(media.toFixed(2))`); 
-
