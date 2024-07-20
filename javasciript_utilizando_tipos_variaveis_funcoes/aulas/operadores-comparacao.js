@@ -4,7 +4,6 @@ if (estaAprovado === true){
     console.log('Aprovado');
 }
 
-
 // Abaixo está um exemplo de uso do operador de comparação de igualdade (==) para verificar se o valor de uma variável é igual a 0:
 
 if ('0' == 0){
